@@ -1,3 +1,1 @@
 init
-task0 feature0
-task1 feature1
